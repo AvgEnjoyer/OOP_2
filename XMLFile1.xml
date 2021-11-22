@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StudentDataBase>
+	<speciality ID ="1" SPECIALITY="PRYMAT">
+		<group GROUP="K22">
+	       <student ID ="1"
+			ROOM="307"
+			SURNAME="Karpenko"
+			NAME="Kyrylo"
+			PHONENUMBER="999"
+	                SUCCESS="Excellent">
+				Text1
+			</student>
+			<student ID="2"
+			ROOM="411"
+			SURNAME="Skorokhod"
+			NAME="Sergii"
+			PHONENUMBER="8888"
+			SUCCESS="Satisfactory">
+				Text2
+			</student>
+		</group>
+		<group GROUP="K23">
+	       <student ID="1"
+			ROOM="122"
+			SURNAME="Krayevskyi"
+			NAME="Oleksandr"
+			PHONENUMBER="898989"
+		        SUCCESS="Good">
+				Text3
+			</student>
+		</group>
+	</speciality>
+
+
+	<speciality ID="2" SPECIALITY="INFORM">
+		<group GROUP ="K25">
+               <student ID ="1"
+			ROOM="307"
+			SURNAME="Barenblat"
+			NAME="Igor"
+			PHONENUMBER="999"
+                        SUCCESS="Satisfactory">
+				Text4
+			</student>
+       <student ID ="2"
+                ROOM="114"
+                SURNAME="Kuntso"
+                NAME="Dmytro"
+                PHONENUMBER="1212124"
+		SUCCESS="Excellent">
+				Text5
+			</student>
+	       <student ID ="3"
+			ROOM="307"
+			SURNAME="Rybchanivskyi"
+			NAME="Viktor"
+			PHONENUMBER="1212124"
+                        SUCCESS="Good">
+				Text6
+			</student>
+	       <student ID ="4"
+			ROOM="604"
+			SURNAME="Karpenko"
+			NAME="Maksym"
+			PHONENUMBER="1212124"
+	       	        SUCCESS="Good">		 
+				Text7
+			</student>
+               <student ID ="5"
+			ROOM="307"
+			SURNAME="Fekete"
+			NAME="Ivan"
+			PHONENUMBER="18937498"
+		        SUCCESS="Excellent">
+				Text8
+			</student>
+		</group>
+		<group GROUP="K26">
+	       <student ID ="1"
+			ROOM="122"
+			SURNAME="Filipenkov"
+			NAME="Illia"
+			PHONENUMBER="1212124"
+                        SUCCESS="Satisfactory">
+				Text9
+			</student>
+	       <student ID ="2"
+			ROOM="604"
+			SURNAME="Klyoz"
+			NAME="Vitalii"
+			PHONENUMBER="1212124"
+			SUCCESS="Satisfactory">
+				Text10
+			</student>
+		</group>
+	</speciality>
+	<speciality ID ="1" SPECIALITY ="PI">
+		<group GROUP ="K28">
+	       <student ID="1"
+			ROOM="114"
+			SURNAME="Mysechko"
+			NAME="Artem"
+			PHONENUMBER="92383"
+			SUCCESS="Good">
+				Text11
+			</student>
+	       <student ID="2"
+			ROOM="114"
+			SURNAME="Filonenko"
+			NAME="Bogdan"
+			PHONENUMBER="2324723"
+			SUCCESS="Good">
+				Text12
+			</student>
+		</group>
+		<group GROUP="K29">
+	       <student ID="1"
+			ROOM="114"
+			SURNAME="Gevorgyan"
+			NAME="Artem"
+			PHONENUMBER="898989"
+			SUCCESS="Excellent">
+				Text13
+			</student>
+		</group>
+	</speciality>
+</StudentDataBase>
+
+
+
+
